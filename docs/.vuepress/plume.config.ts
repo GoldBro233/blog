@@ -5,7 +5,7 @@ import { navbar } from "./navbar";
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: "./attatchments/FluentEmojiRingedPlanet.webp",
+  logo: "https://img.goldbro.top/FluentEmojiRingedPlanet.webp",
 
   appearance: true,
 

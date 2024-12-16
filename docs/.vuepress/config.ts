@@ -12,7 +12,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     // 部署域名
-    hostname: "https:blog.goldbro.top",
+    hostname: "https://blog.goldbro.top",
     // your git repo url
     docsRepo: "https://github.com/GoldBro233/blog",
     docsDir: "master",
