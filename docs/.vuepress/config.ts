@@ -15,7 +15,7 @@ export default defineUserConfig({
     hostname: "https:blog.goldbro.top",
     // your git repo url
     docsRepo: "https://github.com/GoldBro233/blog",
-    docsDir: "main",
+    docsDir: "master",
     blog: { exclude: [".vuepress/", "**/README.md", "**/friends.md"] },
     copyright: "CC-BY-NC-ND-4.0",
     plugins: {
