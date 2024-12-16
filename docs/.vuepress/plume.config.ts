@@ -17,7 +17,6 @@ export default defineThemeConfig({
     // location: '',
     // organization: '',
   },
-
   navbar,
   social: [
     { icon: "github", link: "https://github.com/GoldBro233" },
