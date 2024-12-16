@@ -7,7 +7,7 @@ list:
   - 
     name: 李的学习笔记
     link: http://113.44.67.89/
-    avatar: http://113.44.67.89/logo.png
+    avatar: "https://img.goldbro.top/lisblog_avatar.webp"
     location: 南京，中国
     organization: VitePress
     desc: 吾志所向，一往无前。
