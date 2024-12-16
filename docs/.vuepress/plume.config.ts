@@ -9,6 +9,10 @@ export default defineThemeConfig({
 
   appearance: true,
 
+  footer: {
+    copyright: "Copyright © 2024-present Goldbro233",
+  },
+
   profile: {
     avatar: "https://img.goldbro.top/goldbro_ico.jpg",
     name: "Goldbro's Planet",

@@ -9,13 +9,23 @@ export default defineUserConfig({
   description: "一个充满幻想的星球🪐",
 
   bundler: viteBundler(),
-
+  head: [
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image/webp",
+        sizes: "32x32",
+        href: "https://img.goldbro.top/FluentEmojiRingedPlanet.webp",
+      },
+    ],
+  ],
   theme: plumeTheme({
     // 部署域名
     hostname: "https://blog.goldbro.top",
     // your git repo url
     docsRepo: "https://github.com/GoldBro233/blog",
-    docsDir: "master",
+    docsDir: "",
     blog: { exclude: [".vuepress/", "**/README.md", "**/friends.md"] },
     copyright: "CC-BY-NC-ND-4.0",
     plugins: {
