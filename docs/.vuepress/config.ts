@@ -28,6 +28,7 @@ export default defineUserConfig({
     docsDir: "",
     blog: { exclude: [".vuepress/", "**/README.md", "**/friends.md"] },
     copyright: "CC-BY-NC-ND-4.0",
+    editLink: false,
     plugins: {
       /**
        * Shiki 代码高亮
