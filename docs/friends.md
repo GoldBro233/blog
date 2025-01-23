@@ -6,8 +6,8 @@ permalink: /friends/
 list:
   - 
     name: 李的学习笔记
-    link: http://113.44.67.89/
-    avatar: "https://img.goldbro.top/lisblog_avatar.webp"
+    link: https://lvjinlove.cn/
+    avatar: "https://lvjinlove.cn/logo.png"
     location: 南京，中国
     organization: VitePress
     desc: 吾志所向，一往无前。
@@ -18,8 +18,8 @@ list:
   
   - 
     name: BOBO'S blog
-    link: http://123.60.40.63/
-    avatar: "https://img.goldbro.top/busblog_avatar.webp"
+    link: https://isbobo.cn
+    avatar: "https://isbobo.cn/diqiuyi.jpg"
     location: 南京， 中国
     organization: VitePress
     desc: 无限进步
